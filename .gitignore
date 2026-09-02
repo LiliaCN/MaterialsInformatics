@@ -1,0 +1,23 @@
+# uv / python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets / API keys
+.env
+*.env
+mp-apikey.txt
+openAI_Apikey.txt
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
